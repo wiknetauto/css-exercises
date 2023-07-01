@@ -1,0 +1,20 @@
+.odd-numbers {
+    background-color: #FFB4B4;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.large-font {
+    font-size: 24px;
+}
+
+#special {
+    color: #0021f3;
+    font-size: 36px;
+}
+
+#extra-special {
+   background-color: #258c0b;
+   font-weight: bold;
+   font-size: 24px;
+
+}
